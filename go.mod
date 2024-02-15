@@ -1,5 +1,5 @@
 module github.com/liamg/traitor
-
+1
 go 1.18
 
 require (
